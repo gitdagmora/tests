@@ -1,4 +1,9 @@
 from cgi import print_arguments
 
 
-print ("I'm Hungry")
+hungry = input("are you hungry?")
+
+if hungry == "yes":
+    print("Eat Samosa may frend")
+else:
+    print("do your homework")
