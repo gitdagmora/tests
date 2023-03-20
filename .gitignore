@@ -6,7 +6,6 @@ peepeepoopoo.py
 #FIle extensions#
 #Use a wildcard character * and then the extension#
 
-*.py
 *.txt
 
 
